@@ -2,7 +2,6 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    initial-scale=1.0">
     <title>Cadastro - Status Codes</title>
 </head>
 <body>
